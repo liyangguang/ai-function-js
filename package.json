@@ -1,12 +1,17 @@
 {
   "name": "ai-function-js",
-	"description": "An extension to make any pages into a GPT chatbot.",
-	"author": "Yangguang Li <liyangguangcn@gmail.com> (https://liyangguang.com/)",
+  "description": "AI function - Let AI run code for you!",
+  "author": "Yangguang Li <liyangguangcn@gmail.com> (https://liyangguang.com/)",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
   },
   "dependencies": {
     "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
   }
 }
