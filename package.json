@@ -1,9 +1,14 @@
 {
   "name": "ai-function-js",
   "description": "AI function - Let AI run code for you!",
+  "keywords": ["gpt", "openai", "generation", "no code"],
   "author": "Yangguang Li <liyangguangcn@gmail.com> (https://liyangguang.com/)",
-  "homepage": "https://github.com/liyangguang/ai-function-js",
-  "version": "0.1.1",
+  "homepage": "https://github.com/liyangguang/ai-function-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liyangguang/ai-function-js"
+  },
+  "version": "0.1.3",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
