@@ -1,4 +1,4 @@
-import AiFunction from './lib.js';
+import AiFunction from './index.js';
 
 const af = new AiFunction(process.env.OPENAI_API_KEY!);
 

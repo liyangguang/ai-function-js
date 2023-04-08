@@ -55,7 +55,3 @@ npm i
 npm run build
 OPENAI_API_KEY=sk-... node dist/example.js
 ```
-
-## TODOs
-
-- Publish to npm
