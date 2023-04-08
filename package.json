@@ -1,0 +1,12 @@
+{
+  "name": "ai-function-js",
+	"description": "An extension to make any pages into a GPT chatbot.",
+	"author": "Yangguang Li <liyangguangcn@gmail.com> (https://liyangguang.com/)",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+  },
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
