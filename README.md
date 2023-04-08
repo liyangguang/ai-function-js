@@ -27,7 +27,7 @@ The response if not always reliable, as you can expect from a GPT bot.
 ## How to use
 
 ```bash
-npm i ai-function-js
+npm i ai-function-js@latest
 ```
 
 ```js
