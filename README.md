@@ -2,17 +2,26 @@
 
 > Heavily inspired by https://github.com/Torantulino/AI-Functions
 
-No need to write functions, just describe it and use it. Let GPT to figure out the rest!
+No need to write functions 👨🏻‍💻, just describe it 🗣 and use it. Let GPT 🤖 to figure out the rest!
 
 ```js
-af.run('Add all numbers together', [1,2,3,4,5]));  // 15
-af.run('Check if it is a valid email address', 'liyangguang@gmail.com'));  //true
-af.run('Make a string into underline slugify case', 'Hi, my name is Yangguang'));  // hi_my_name_is_yangguang
-af.run('Generate first 10 digits in fibonacci sequence'));  // [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
-af.run('Translate date notation from U.S. to Chinese', 'Apr 8, 2023'));  // 2023年4月8日
+af.run('Add all numbers together', [1,2,3,4,5]));
+// Output: 15
+
+af.run('Check if it is a valid email address', 'liyangguang@gmail.com'));
+// Output: true
+
+af.run('Make a string into underline slugify case', 'Hi, my name is Yangguang'));
+// Output: hi_my_name_is_yangguang
+
+af.run('Generate first 10 digits in fibonacci sequence'));
+// Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+
+af.run('Translate date notation from U.S. to Chinese', 'Apr 8, 2023'));
+// Output: 2023年4月8日
 ```
 
-> This package is mostly for fun. DO NOT recommend using it in production code.
+> This package is mostly for fun. DO NOT recommend using it in production code. 😜
 
 ## How to use
 
