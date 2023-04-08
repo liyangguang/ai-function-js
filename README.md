@@ -25,8 +25,12 @@ af.run('Translate date notation from U.S. to Chinese', 'Apr 8, 2023'));
 
 ## How to use
 
+```bash
+npm i ai-function-js
+```
+
 ```js
-import AiFunction from 'ai-function';
+import AiFunction from 'ai-function-js';
 
 const af = new AiFunction(process.env.OPENAI_API_KEY);
 
