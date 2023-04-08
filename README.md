@@ -15,6 +15,15 @@ af.run('slugify', 'Make a string into underline slugify case', ['Hi, my name is 
 // Output: hi_my_name_is_yangguang
 ```
 
+## How to use
+
+To run the example code locally:
+
+```bash
+npm i
+OPENAI_API_KEY=sk-... node example.js
+```
+
 ## TODOs
 
 - Publish to npm
