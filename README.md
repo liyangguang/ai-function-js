@@ -61,3 +61,7 @@ npm i
 npm run build
 OPENAI_API_KEY=sk-... node dist/example.js
 ```
+
+## More
+
+This package is obvious for experimental and fun. If you want more practical auto-code, check out my another repo [GPT-TDD](https://github.com/liyangguang/gpt-tdd) - Use GPT to automatically generate code for Test-Drive-Development.
